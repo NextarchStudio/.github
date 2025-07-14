@@ -38,7 +38,7 @@ A thrilling multiplayer physics-based bot combat game where players control cust
 **Status:** 🟡 In Development  
 **Genre:** Multiplayer Combat / Physics-Based  
 **Platform:** Windows PC (Steam)  
-**Engine:** Custom Physics Engine
+**Engine:** Unreal Engine 5.6
 
 #### ⚡ Key Features
 - **Multiple Game Modes**: Battle Royale, Scrapball, King of the Core
